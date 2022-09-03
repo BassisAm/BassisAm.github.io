@@ -69,7 +69,7 @@ h2 {
 h3,h5 {
     font-family:'Bebas Neue', cursive;
 }
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 576px) {
     .info {
       font-size: .9em;
     }
