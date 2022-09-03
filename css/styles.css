@@ -4,13 +4,12 @@
     padding: 0;
 }
 
-.navbarSupportedContent {
-    background-color:#C44536;
-}
 #about {
     background-color:#586F7C;
 
 }
+
+
 
 #background {
     width: 100%;
@@ -54,11 +53,21 @@ h2 {
 }
 
 
+
+.accordion-header {
+    font-family:'Bebas Neue', cursive;
+}
+
+h3,h5 {
+    font-family:'Bebas Neue', cursive;
+}
 @media screen and (max-width: 576px) {
     .info {
       font-size: .9em;
     }
 }
+
+
 
 
 
