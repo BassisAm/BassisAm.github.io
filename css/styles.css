@@ -9,7 +9,15 @@
 
 }
 
+.link {
+    text-decoration: none;
+    color:#C44536;
+}
 
+.link:hover {
+    color:#C44536;
+    opacity: .6;
+}
 
 #background {
     width: 100%;
