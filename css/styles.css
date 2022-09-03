@@ -61,6 +61,10 @@ h2 {
 }
 
 
+.image {
+    height: 100%;
+}
+
 
 .accordion-header {
     font-family:'Bebas Neue', cursive;
